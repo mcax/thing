@@ -1,0 +1,25 @@
+{
+  "name": "mcax-thing",
+  "version": "0.0.1",
+  "description": "The core model of generic item.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mcax/thing.git"
+  },
+  "author": "Mushex Antaranian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcax/thing/issues"
+  },
+  "homepage": "https://github.com/mcax/thing",
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  },
+  "dependencies": {
+    "ampersand-state": "^4.6.0"
+  }
+}
