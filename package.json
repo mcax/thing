@@ -1,6 +1,6 @@
 {
   "name": "mcax-thing",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The core model of generic item.",
   "main": "index.js",
   "scripts": {
