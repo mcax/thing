@@ -8,4 +8,11 @@ describe('Thing', function() {
         assert.ok(Thing);
     });
 
+    it('should accept input', function() {
+        var thing = new Thing({ name: 'Star' });
+
+        assert.equal(thing.name, 'Star');
+    });
+
 });
+
