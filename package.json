@@ -20,6 +20,7 @@
     "mocha": "^2.3.3"
   },
   "dependencies": {
-    "ampersand-state": "^4.6.0"
+    "ampersand-state": "^4.6.0",
+    "mcax-imageobject": "0.0.1"
   }
 }
